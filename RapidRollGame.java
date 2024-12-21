@@ -5,6 +5,7 @@ import java.awt.event.*;                //to run the thread with more
 import java.util.*;
 import java.io.*;
 
+// This Java JWT swing project
 class HighSc
 {
 
